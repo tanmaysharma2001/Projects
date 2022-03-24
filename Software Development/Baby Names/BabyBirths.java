@@ -2,7 +2,9 @@ import java.io.*;
 import java.util.*;
 
 /*
- * Write a description of class Baby Births here.
+ * This program determines the popularity of different baby names
+ * in the US over time by analyzing comma separated value (CSV) files.
+ * 
  * 
  * @author (Tanmay Sharma)
  * 
