@@ -6,7 +6,7 @@ import java.util.*;
  * in the US over time by analyzing comma separated value (CSV) files.
  * 
  * 
- * @author (Tanmay Sharma)
+ * @Tanmay Sharma
  * 
  */
 
