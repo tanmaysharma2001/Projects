@@ -238,7 +238,7 @@ public class BabyBirths {
 
     public static void main(String[] args) {
 
-        System.out.println(getTotalBirthsRankedHigher(2012, "Mason", "M"));
+        System.out.println(yearOfHighestRank("Jacob", "M"));
     }
 
 }
